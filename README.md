@@ -47,3 +47,4 @@ Features Left to Implement:
 •	Members login portal
 •	Users that want to become a member of the club
 •	Special tickets send to your iPhone as SMS
+# zerox
